@@ -13,5 +13,9 @@ public class BaseClass {
 	public void setProperty() {
 		
 	}
+	
+	public void quitBrowser() {
+		
+	}
 
 }
