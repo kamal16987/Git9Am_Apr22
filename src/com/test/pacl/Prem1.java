@@ -1,6 +1,6 @@
 package com.test.pacl;
 
-public class Prem {
+public class Prem1 {
 	int a=123;
 	int i=0,j=0;
 	
@@ -13,11 +13,11 @@ public class Prem {
 	 }
 	 System.out.println(j);
 	}
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Prem obj=new Prem();
+		Prem1 obj=new Prem1();
 		obj.ReverseNumber();
+		
 		
 
 	}
